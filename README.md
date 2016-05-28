@@ -13,7 +13,8 @@ Contents that were edited:
 - Faculty Adviser
 - Panelists
 - Title
-- Group Name (under group numer)
+- Group Name (under group number)
+- Degree Program
 - Vitae
 
 This is a sample thesis template to be submitted to Sir Melvin Cabatuan for the course MORFCPE section EQ.
