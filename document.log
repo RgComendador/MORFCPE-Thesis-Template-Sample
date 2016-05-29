@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.19)  28 MAY 2016 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.19)  29 MAY 2016 18:55
 entering extended mode
 **./document.tex
 (document.tex
@@ -3177,11 +3177,11 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 7BAEF994B3229DFE337D3EB0D3CD5A2D;6228.
  ) 
 Here is how much of TeX's memory you used:
- 36217 strings out of 493634
- 616644 string characters out of 3133607
- 1369876 words of memory out of 3000000
+ 36220 strings out of 493634
+ 616671 string characters out of 3133607
+ 1369056 words of memory out of 3000000
  37780 multiletter control sequences out of 15000+200000
- 79717 words of font info for 271 fonts, out of 3000000 for 9000
+ 79836 words of font info for 273 fonts, out of 3000000 for 9000
  1033 hyphenation exceptions out of 8191
  65i,20n,126p,1085b,2041s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\comen_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright
@@ -3223,7 +3223,7 @@ Users/comen_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr
 mes/utmb8a.pfb><C:/Users/comen_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmr8a.pfb><C:/Users/comen_000/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (94 pages, 994014 bytes).
+Output written on document.pdf (94 pages, 994201 bytes).
 PDF statistics:
  2064 PDF objects out of 2073 (max. 8388607)
  829 named destinations out of 1000 (max. 500000)
